@@ -1,0 +1,21 @@
+D:\Hurude Hanyu\Image Viewer\Image Viewer\bin\Debug\Image Viewer.exe.config
+D:\Hurude Hanyu\Image Viewer\Image Viewer\bin\Debug\Image Viewer.exe
+D:\Hurude Hanyu\Image Viewer\Image Viewer\bin\Debug\Image Viewer.pdb
+D:\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.csprojResolveAssemblyReference.cache
+D:\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image_Viewer.Form1.resources
+D:\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image_Viewer.Properties.Resources.resources
+D:\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.csproj.GenerateResource.Cache
+D:\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.exe
+D:\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.pdb
+D:\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image_Viewer.Form2.resources
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\bin\Debug\Image Viewer.exe.config
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\bin\Debug\Image Viewer.exe
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\bin\Debug\Image Viewer.pdb
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image_Viewer.Form1.resources
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image_Viewer.Form2.resources
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image_Viewer.Properties.Resources.resources
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.csproj.GenerateResource.cache
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.csproj.CoreCompileInputs.cache
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.exe
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.pdb
+E:\백업\Programing\Hurude Hanyu\Image Viewer\Image Viewer\obj\Debug\Image Viewer.csprojAssemblyReference.cache
